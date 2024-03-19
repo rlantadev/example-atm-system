@@ -1,0 +1,7 @@
+C:\Users\daghan\Desktop\rlantadev\repos\Bank System\Bank System\obj\Debug\Bank System.csproj.AssemblyReference.cache
+C:\Users\daghan\Desktop\rlantadev\repos\Bank System\Bank System\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\daghan\Desktop\rlantadev\repos\Bank System\Bank System\bin\Debug\Bank System.exe.config
+C:\Users\daghan\Desktop\rlantadev\repos\Bank System\Bank System\bin\Debug\Bank System.exe
+C:\Users\daghan\Desktop\rlantadev\repos\Bank System\Bank System\bin\Debug\Bank System.pdb
+C:\Users\daghan\Desktop\rlantadev\repos\Bank System\Bank System\obj\Debug\Bank System.exe
+C:\Users\daghan\Desktop\rlantadev\repos\Bank System\Bank System\obj\Debug\Bank System.pdb
